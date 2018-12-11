@@ -1,0 +1,14 @@
+
+
+
+virtual-centos7:
+  ip: 172.16.95.132
+  port: 22
+
+hpyy-server1:
+  ip: 0000
+  port: 22
+
+hpyy-server2:
+  ip: 0000
+  port: 22

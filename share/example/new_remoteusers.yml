@@ -1,0 +1,9 @@
+remote_user1:
+  auth_type: ssh-password
+  username: root
+  password: 960314
+
+remote_user2:
+  auth_type: ssh-password
+  username: root
+  password: 000000

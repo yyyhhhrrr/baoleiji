@@ -1,0 +1,35 @@
+bind1:
+  hostname: virtual-centos7
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-password
+      password: 960314
+  groups:
+    - myself
+  user_profiles:
+    - yang
+
+bind2:
+  hostname: hpyy-server1
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-password
+      password: zhongyou123
+  groups:
+    - hpyy
+  user_profiles:
+    - admin
+
+bind3:
+  hostname: hpyy-server2
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-password
+      password: zhongyou123
+  groups:
+    - hpyy
+  user_profiles:
+    - yang
