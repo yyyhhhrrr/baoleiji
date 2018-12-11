@@ -24,10 +24,7 @@
 |   |-- action_registers.py 操作注册
 |   |-- settings.py  配置文件
 |   |-- __init__.py
-|   |-- __pycache__
-|   |   |-- action_registers.cpython-37.pyc
-|   |   |-- settings.cpython-37.pyc
-|   |   |-- __init__.cpython-37.pyc
+
 |-- log
 |   |-- __init__.py
 |-- models
@@ -44,14 +41,7 @@
 |   |-- utils.py 工具
 |   |-- views.py 视图操作（用户认证，登录，数据添加等）
 |   |-- __init__.py
-|   |-- __pycache__
-|   |   |-- actions.cpython-37.pyc
-|   |   |-- db_conn.cpython-37.pyc
-|   |   |-- interactive.cpython-37.pyc
-|   |   |-- ssh_login.cpython-37.pyc
-|   |   |-- utils.cpython-37.pyc
-|   |   |-- views.cpython-37.pyc
-|   |   |-- __init__.cpython-37.pyc
+|   |
 |-- share
 |   |-- example
 |   |   |-- new_bindhost.yml bindhost表
@@ -59,3 +49,5 @@
 |   |   |-- new_hosts.yml host表
 |   |   |-- new_remoteusers.yml 远程用户表
 |   |   |-- new_user.yml 堡垒机用户表
+
+
